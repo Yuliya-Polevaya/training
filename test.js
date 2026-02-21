@@ -1,1 +1,1 @@
-concol.log() 
+console.log() 
